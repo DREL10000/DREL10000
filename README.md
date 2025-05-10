@@ -1,6 +1,6 @@
 # Hi there, I'm Andrel! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](banner.png)
 
 ## About Me 🚀
 
