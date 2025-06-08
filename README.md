@@ -7,7 +7,7 @@
 I'm a passionate **Software Engineer** with experience in **Full-Stack development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Advanced Front End Development at ALX**
-- 🔭 Working on: **StayEase** - A booking management system for properties
+- 🔭 Working on: **Terra Action Form** - A social media / crowdfunding platform
 - 🌍 Languages: **English, French**
 - 📫 How to reach me: **variabledev1@gmail.com**
 - ⚡ Fun fact: **When I was 16 years old, my dream was to play in the NBA**
@@ -31,9 +31,7 @@ I'm a passionate **Software Engineer** with experience in **Full-Stack developme
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
 
-![Project 2 Screenshot](project_2_screenshot_url)
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
